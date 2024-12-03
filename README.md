@@ -1,4 +1,4 @@
-### Hi, I'm Qianqian Zhan!
+### Hi, I'm Qien!
 - 🔭 I’m currently working on Hand gesture recognition.
 - ✍️ I’m writing codes and welcome to swim with me in the sea of code!
 <!--
