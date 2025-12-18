@@ -1,6 +1,6 @@
 ### Hi, I'm Qien!
 - 🔭 I’m currently working on incremental learning.
-- ✍️ I’m writing codes and welcome to swim with me in the sea of code!
+- ✍️ I’m writing code, and welcome to swim with me in the sea of code!
 <!--
 **QienJane/QienJane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
